@@ -48,7 +48,7 @@ This section lists the minimum hardware and software requirements needed to deve
 
 ###### Unity 3D 
 
-Unity is the ultimate game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR. 
+Unity is the ultimate game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR/MR. 
 >https://unity3d.com/
 
 ###### Vuforia
