@@ -23,9 +23,9 @@ This section lists the minimum hardware and software requirements needed to deve
   
 ###### Software Interface (Development):
 
-•	Operating System		          : Windows
+ •	Operating System		          : Windows
 
-•	Engine				                  : Unity 3D
+ •	Engine				                  : Unity 3D
 
 - Machine Learning    :         Wit.ai
 
